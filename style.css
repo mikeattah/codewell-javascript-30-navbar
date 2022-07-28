@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* all: revert; */
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100vh;
+  max-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", "Roboto", sans-serif;
+  background-color: #ccc;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav_bar {
+}
+
+.nav_logo_container {
+}
+
+.nav_logo {
+}
+
+.nav_list_container {
+}
+
+.nav_list {
+}
+
+.nav_list_dropdown_container {
+}
+
+.nav_list_dropdown_item {
+}
+
+.nav_list_dropdown_item_logo {
+}
+
+.nav_list_dropdown_item_description {
+}
+
+.nav_list_dropdown_item_title {
+}
+
+.nav_list_dropdown_item_text {
+}
+
+.nav_auth_button_container {
+}
+
+.nav_auth_button_plain {
+}
+
+.nav_auth_button_fancy {
+}
+
+.main_container {
+}
+
+.section_top_left {
+}
+
+.title {
+}
+
+.title_highlight {
+}
+
+.text_one {
+}
+
+.reviews_container {
+}
+
+.reviews_text {
+}
+
+.reviews_logo_container {
+}
+
+.section_bottom_right {
+}
+
+.web_call_container {
+}
+
+.top_icon_container {
+}
+
+.hero_image_container {
+}
+
+.hero_image {
+}
+
+.bottom_icon_container {
+}
+
+.text_two {
+}
+
+.companies_logo_container {
+}
