@@ -1,33 +1,55 @@
+# Codewell - JavaScript 30 Navbar
 
-# Welcome to Codewell! 👋
+This is a solution to the [JavaScript 30 Navbar challenge on Codewell](https://www.codewell.cc/challenges/javascript30-navbar--623f19001fa95910c7bf998e). Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+## Table of contents
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Credits](#credits)
 
-### I've completed the challenge, now what?
+## Overview
 
-We recommend using one of these two websites to deploy your projects
+### The challenge
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+Develop user interface according the [design](https://github.com/mikeattah/codewell-javascript-30-navbar/tree/main/public/design) provided by Codewell.
 
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+### Screenshot
 
+![Screenshot of Web Page](./screenshot.png)
 
-### Submit your solution to Codewell
+### Links
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
+View Site: [GitHub Page](https://your-live-site-url.com)
 
-### Join our community on Slack
+## My Process
 
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+### Built with
 
-### Wes Bos's Javascript30
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-This challenge is best coupled with Day 22 of Wes Bos's [Javascript30](https://javascript30.com) course. 
+### What I learned
 
-### Fonts Used
+XXX
 
-https://fonts.google.com/specimen/Inter
+### Continued development
+
+I will continue to learn more about responsive web design for multiple screen sizes.
+
+## Author
+
+- Website: [mikeattah.com](https://www.mikeattah.com)
+- Twitter: [@mikeattahh](https://www.twitter.com/mikeattahh)
+
+## Credits
+
+This site is hosted on [GitHub Pages](https://pages.github.com/).

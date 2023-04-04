@@ -14,7 +14,7 @@
     />
 
     <title>
-      JavaScript 30 Navbar by Wes Bos & Codewell | Mike Attah's Solution
+      JavaScript 30 Navbar by Wes Bos & Codewell | Michael Attah's Solution
     </title>
 
     <!-- Google Fonts -->
@@ -40,10 +40,10 @@
         </a>
       </div>
       <ul class="nav_list_container">
-        <li class="nav_list"><a href="#">Products</a></li>
-        <li class="nav_list"><a href="#">Challenges</a></li>
-        <li class="nav_list"><a href="#">Resources</a></li>
-        <li class="nav_list"><a href="#">Other Links</a></li>
+        <li><a href="#" class="nav_list">Products</a></li>
+        <li><a href="#" class="nav_list">Challenges</a></li>
+        <li><a href="#" class="nav_list">Resources</a></li>
+        <li><a href="#" class="nav_list">Other Links</a></li>
       </ul>
       <div class="nav_list_dropdown_container">
         <div class="nav_list_dropdown_item">
@@ -89,44 +89,59 @@
           </div>
         </div>
       </div>
-      <div class="nav_auth_button_container">
-        <a href="#" class="nav_auth_button_plain">Sign in</a>
-        <a href="#" class="nav_auth_button_fancy">Try for free</a>
+      <div class="nav_auth_buttons_container">
+        <a href="#" class="nav_auth_button_primary">Sign in</a>
+        <a href="#" class="nav_auth_button_secondary">Try for free</a>
       </div>
     </nav>
     <main class="main_container">
-      <section class="page_copy_container">
-        <h1 class="title">
+      <section class="landing_page_container">
+        <h1 class="landing_page_title">
           Ondeck is your remote
-          <span class="title_highlight">conference calling tool</span>
+          <span class="landing_page_title_highlight"
+            >conference calling tool</span
+          >
         </h1>
-        <p class="text">
+        <p class="landing_page_text">
           Ondeck is a service that allows you to create beautiful, online, and
           encrypted video calls for you and your remote team
         </p>
-        <a href="#" class="nav_auth_button_fancy">Try for free</a>
-        <div class="reviews_container">
-          <span class="text">5.0 rating based on reviews from:</span>
-          <div class="reviews_logo_container">
-            <img src="./public/assets/capterra-logo.svg" alt="Capterra Logo" />
-            <img
-              src="./public/assets/alternative-to-logo.svg"
-              alt="Alternative Logo"
-            />
-            <img src="https://via.placeholder.com/25" alt="Shopify Logo" />
-          </div>
+        <a href="#" class="nav_auth_button_secondary">Try for free</a>
+        <div class="landing_page_reviews_container">
+          <span class="landing_page_text"
+            >5.0 rating based on reviews from:</span
+          >
+          <img
+            src="./public/assets/capterra-logo.svg"
+            alt="Capterra Logo"
+            width="20"
+            height="20"
+            class="reviews_logo"
+          />
+          <img
+            src="./public/assets/alternative-to-logo.svg"
+            alt="Alternative Logo"
+            width="20"
+            height="20"
+            class="reviews_logo"
+          />
+          <img
+            src="https://via.placeholder.com/20"
+            alt="Shopify Logo"
+            class="reviews_logo"
+          />
         </div>
       </section>
-      <section class="hero_image_container">
+      <section class="landing_page_hero_image_container">
         <img
           src="./public/assets/hero-image.png"
           alt="Sara Johnson's Hero Image"
-          class="hero_image"
+          class="landing_page_hero_image"
         />
       </section>
     </main>
     <footer class="footer_container">
-      <p class="text">Trusted by 3+ million people at companies like</p>
+      <p class="footer_text">Trusted by 3+ million people at companies like</p>
       <div class="companies_logo_container">
         <img src="./public/assets/netflix-logo.svg" alt="Netflix Logo" />
         <img src="./public/assets/shopify-logo.svg" alt="Shopify Logo" />
