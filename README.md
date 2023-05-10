@@ -6,6 +6,12 @@ This is a solution to the [JavaScript 30 Navbar challenge on Codewell](https://w
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+    - [Welcome to Codewell](#welcome-to-codewell)
+    - [I've completed the challenge, now what?](#ive-completed-the-challenge-now-what)
+    - [Submit your solution to Codewell](#submit-your-solution-to-codewell)
+    - [Join our community on Slack](#join-our-community-on-slack)
+    - [Wes Bos's Javascript30](#wes-boss-javascript30)
+    - [Fonts Used](#fonts-used)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,15 +25,45 @@ This is a solution to the [JavaScript 30 Navbar challenge on Codewell](https://w
 
 ### The challenge
 
-Develop user interface according the [design](https://github.com/mikeattah/codewell-javascript-30-navbar/tree/main/public/design) provided by Codewell.
+#### Welcome to Codewell
+
+Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.
+
+Free or paid, all templates are high quality and will make great portfolio pieces.
+
+#### I've completed the challenge, now what?
+
+We recommend using one of these two websites to deploy your projects
+
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+
+They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+
+##### Submit your solution to Codewell
+
+Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
+Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
+
+##### Join our community on Slack
+
+If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ).
+
+##### Wes Bos's Javascript30
+
+This challenge is best coupled with Day 22 of Wes Bos's [Javascript30](https://javascript30.com) course.
+
+##### Fonts Used
+
+[Fonts](https://fonts.google.com/specimen/Inter)
 
 ### Screenshot
 
-![Screenshot of Web Page](./screenshot.png)
+![Screenshot](./screenshot.png)
 
 ### Links
 
-View Site: [GitHub Page](https://your-live-site-url.com)
+View Site: [GitHub Page](https://mikeattah.github.io/codewell-javascript-30-navbar/)
 
 ## My Process
 
@@ -39,7 +75,7 @@ View Site: [GitHub Page](https://your-live-site-url.com)
 
 ### What I learned
 
-XXX
+How to add Accordion dropdown menu to nav bar.
 
 ### Continued development
 
